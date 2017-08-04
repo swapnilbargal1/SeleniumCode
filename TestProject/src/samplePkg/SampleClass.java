@@ -35,7 +35,7 @@ public class SampleClass {
 		
 		System.out.println("test");
 		
-		
+		driver.close();
 
 	}
 
