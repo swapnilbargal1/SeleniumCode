@@ -25,6 +25,8 @@ public class SampleClass {
 			WebDriverWait wait = new WebDriverWait(driver, 20);
 			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("")));
 		
+			
+			System.out.println("add a simple first chnage");
 
 	}
 
