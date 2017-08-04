@@ -29,6 +29,8 @@ public class SampleClass {
 			System.out.println("add a simple first chnage");
 			
 			System.out.println("test line");
+		
+		System.out.println("test line added to fetch");
 
 	}
 
