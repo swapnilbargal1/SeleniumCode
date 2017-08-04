@@ -35,6 +35,8 @@ public class SampleClass {
 		
 		System.out.println("test");
 		
+		System.out.println("test1234");
+		
 		driver.close();
 
 	}
